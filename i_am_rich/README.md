@@ -1,5 +1,5 @@
 # I am Rich app
-A simple flutter application that shows a diamond at the center of the screen with an appbat at the top.
+A simple flutter application that shows a diamond at the center of the screen with an appbar at the top.
 
 ## Getting Started
 
